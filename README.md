@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## [Web-version](https://https://dmitriy-sp.github.io/simonSays_vue2/)
+## [Web-version](https://dmitriy-sp.github.io/simonSays_vue2/)
 
 ## Project Setup
 
