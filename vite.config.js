@@ -4,7 +4,10 @@ import { defineConfig } from "vite";
 import legacy from "@vitejs/plugin-legacy";
 import vue2 from "@vitejs/plugin-vue2";
 
+// https://vitejs.dev/config/
 export default defineConfig({
+  publicPath: process.env.NODE_ENV === 'production' ? '/subfolder/' : '/',
+  base: '/simonSays_vue2/',
   plugins: [
     vue2(),
     legacy({

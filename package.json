@@ -1,6 +1,7 @@
 {
   "name": "simonsays",
   "version": "0.0.0",
+  "homepage": "https://https://dmitriy-sp.github.io/simonSays_vue2", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
